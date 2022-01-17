@@ -1,2 +1,1 @@
-# firstsemestr
-homework
+# Semestr1DZ
